@@ -1,0 +1,7 @@
+items:
+- Samsung
+- Nokia
+prices:
+  Nokia: 12000 Rub
+  Samsung: 15000 Rub
+quantity: 10

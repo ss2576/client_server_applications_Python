@@ -1,0 +1,18 @@
+{
+    "orders": [
+        {
+            "item": "Jack",
+            "quantity": "6",
+            "price": "1333 RUB",
+            "buyer": "book_3",
+            "date": "2020-07-14"
+        },
+        {
+            "item": "Jack",
+            "quantity": "6",
+            "price": "1333 Rub",
+            "buyer": "book_3",
+            "date": "2020-07-14"
+        }
+    ]
+}

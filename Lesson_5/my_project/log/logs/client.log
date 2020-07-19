@@ -1,0 +1,3 @@
+2020-07-01 15:09:06,181 | CRITICAL | client_log_config | Test critical event
+2020-07-01 15:09:06,181 | ERROR    | client_log_config | Test error event
+2020-07-01 15:09:06,181 | WARNING  | client_log_config | Test warning event

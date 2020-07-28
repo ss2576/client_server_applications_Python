@@ -1,0 +1,330 @@
+2020-07-25 13:51:32,130 | INFO     | server | Config server port - 7878| Bind address - 
+2020-07-25 13:51:32,130 | INFO     | server | Start listen
+2020-07-25 16:52:04,789 | INFO     | server | Config server port - 7878| Bind address - 
+2020-07-25 16:52:04,789 | INFO     | server | Start listen
+2020-07-25 16:53:37,467 | INFO     | server | Config server port - 7878| Bind address - 
+2020-07-25 16:53:37,467 | INFO     | server | Start listen
+2020-07-25 16:59:35,099 | INFO     | server | Config server port - 7878| Bind address - 
+2020-07-25 16:59:35,099 | INFO     | server | Start listen
+2020-07-25 16:59:38,441 | INFO     | server | Connection from ('127.0.0.1', 50203)
+2020-07-25 16:59:38,584 | INFO     | server | <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50203)>
+2020-07-25 16:59:38,600 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test294', 'time': 1595685578.440186, 'type': 'request'}
+2020-07-25 16:59:57,015 | INFO     | server | Connection from ('127.0.0.1', 50204)
+2020-07-25 16:59:57,172 | INFO     | server | <socket.socket fd=268, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50204)>
+2020-07-25 16:59:57,172 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test216', 'time': 1595685597.015654, 'type': 'request'}
+2020-07-25 17:00:01,324 | INFO     | server | Connection from ('127.0.0.1', 50205)
+2020-07-25 17:00:01,470 | INFO     | server | <socket.socket fd=332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50205)>
+2020-07-25 17:00:01,470 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test974', 'time': 1595685601.324279, 'type': 'request'}
+2020-07-25 17:00:56,438 | INFO     | server | <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50203)>
+2020-07-25 17:00:56,438 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test294', 'to': 'ALL', 'text': 'helloy'}, 'time': 1595685656.407214, 'type': 'request'}
+2020-07-25 17:01:17,579 | INFO     | server | <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50203)>
+2020-07-25 17:01:17,579 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'helloy', 'time': 1595685677.407286, 'type': 'request'}
+2020-07-25 17:01:31,149 | INFO     | server | <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50203)>
+2020-07-25 17:01:31,149 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test294', 'to': 'helloy', 'text': ''}, 'time': 1595685690.647335, 'type': 'request'}
+2020-07-25 17:02:10,887 | INFO     | server | <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50203)>
+2020-07-25 17:02:10,887 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test294', 'to': 'test216', 'text': ''}, 'time': 1595685730.730073, 'type': 'request'}
+2020-07-25 17:15:27,371 | INFO     | server | <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50203)>
+2020-07-25 17:15:27,371 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1595686527.104726, 'type': 'request'}
+2020-07-25 17:16:34,640 | INFO     | server | Config server port - 7878| Bind address - 
+2020-07-25 17:16:34,656 | INFO     | server | Start listen
+2020-07-25 17:17:07,596 | INFO     | server | Connection from ('127.0.0.1', 50359)
+2020-07-25 17:17:07,753 | INFO     | server | <socket.socket fd=268, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50359)>
+2020-07-25 17:17:07,753 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test775', 'time': 1595686627.596392, 'type': 'request'}
+2020-07-25 17:17:16,066 | INFO     | server | Connection from ('127.0.0.1', 50362)
+2020-07-25 17:17:16,208 | INFO     | server | <socket.socket fd=284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50362)>
+2020-07-25 17:17:16,208 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test965', 'time': 1595686636.066772, 'type': 'request'}
+2020-07-25 17:18:30,132 | INFO     | server | <socket.socket fd=268, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50359)>
+2020-07-25 17:18:30,132 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test777', 'time': 1595686709.535936, 'type': 'request'}
+2020-07-25 17:18:46,473 | INFO     | server | Connection from ('127.0.0.1', 50372)
+2020-07-25 17:18:46,647 | INFO     | server | <socket.socket fd=308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50372)>
+2020-07-25 17:18:46,647 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test120', 'time': 1595686726.473705, 'type': 'request'}
+2020-07-25 17:19:20,282 | INFO     | server | <socket.socket fd=308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50372)>
+2020-07-25 17:19:20,284 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1595686759.87694, 'type': 'request'}
+2020-07-25 17:19:57,663 | INFO     | server | <socket.socket fd=308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50372)>
+2020-07-25 17:19:57,665 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test222', 'time': 1595686797.34855, 'type': 'request'}
+2020-07-25 17:20:16,660 | INFO     | server | Connection from ('127.0.0.1', 50377)
+2020-07-25 17:22:54,734 | INFO     | server | <socket.socket fd=284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50362)>
+2020-07-25 17:22:54,736 | INFO     | server | REQUEST  | {'action': 'command', 'body': '#add_contact Test222', 'time': 1595686974.308795, 'type': 'request'}
+2020-07-25 17:28:23,041 | INFO     | server | <socket.socket fd=284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50362)>
+2020-07-25 17:28:23,041 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test965', 'to': 'get_contact', 'text': ''}, 'time': 1595687302.994643, 'type': 'request'}
+2020-07-25 17:28:46,863 | INFO     | server | Connection from ('127.0.0.1', 50416)
+2020-07-25 17:28:47,023 | INFO     | server | <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50416)>
+2020-07-25 17:28:47,024 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test347', 'time': 1595687326.862364, 'type': 'request'}
+2020-07-25 17:28:50,979 | INFO     | server | Connection from ('127.0.0.1', 50417)
+2020-07-25 17:28:51,136 | INFO     | server | <socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50417)>
+2020-07-25 17:28:51,136 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test178', 'time': 1595687330.979448, 'type': 'request'}
+2020-07-25 17:29:04,671 | INFO     | server | <socket.socket fd=284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50362)>
+2020-07-25 17:29:04,673 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test965', 'to': 'get_contact', 'text': ''}, 'time': 1595687344.187047, 'type': 'request'}
+2020-07-25 17:29:25,251 | INFO     | server | <socket.socket fd=284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50362)>
+2020-07-25 17:29:25,253 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test965', 'to': 'ALL', 'text': 'helloy'}, 'time': 1595687364.98967, 'type': 'request'}
+2020-07-25 17:29:39,826 | INFO     | server | <socket.socket fd=284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50362)>
+2020-07-25 17:29:39,826 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test965', 'to': 'helloy', 'text': ''}, 'time': 1595687379.795641, 'type': 'request'}
+2020-07-25 17:29:52,834 | INFO     | server | <socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50417)>
+2020-07-25 17:29:52,834 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test178', 'to': 'helloy', 'text': ''}, 'time': 1595687392.349721, 'type': 'request'}
+2020-07-25 17:30:31,034 | INFO     | server | <socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50417)>
+2020-07-25 17:30:31,036 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test178', 'to': 'Test965', 'text': ' - helloy'}, 'time': 1595687430.628772, 'type': 'request'}
+2020-07-25 17:30:42,582 | INFO     | server | <socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50417)>
+2020-07-25 17:30:42,583 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test178', 'to': 'Test347', 'text': ' - helloy'}, 'time': 1595687442.133295, 'type': 'request'}
+2020-07-25 17:33:08,732 | INFO     | server | <socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50417)>
+2020-07-25 17:33:08,732 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact ', 'time': 1595687588.621905, 'type': 'request'}
+2020-07-25 17:33:08,732 | ERROR    | decorators | add_contact() missing 1 required positional argument: 'contactname'
+2020-07-25 17:33:39,480 | INFO     | server | <socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50417)>
+2020-07-25 17:33:39,480 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Test347', 'time': 1595687619.150591, 'type': 'request'}
+2020-07-25 17:34:06,274 | INFO     | server | <socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50417)>
+2020-07-25 17:34:06,275 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Test178 Test347', 'time': 1595687645.803047, 'type': 'request'}
+2020-07-25 17:34:06,275 | ERROR    | decorators | add_contact() takes 3 positional arguments but 4 were given
+2020-07-25 17:34:48,614 | INFO     | server | <socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50417)>
+2020-07-25 17:34:48,616 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Test347 Test178', 'time': 1595687688.572915, 'type': 'request'}
+2020-07-25 17:34:48,618 | ERROR    | decorators | add_contact() takes 3 positional arguments but 4 were given
+2020-07-25 17:34:55,690 | INFO     | server | <socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50417)>
+2020-07-25 17:34:55,690 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Test347 Test347', 'time': 1595687695.409879, 'type': 'request'}
+2020-07-25 17:34:55,690 | ERROR    | decorators | add_contact() takes 3 positional arguments but 4 were given
+2020-07-25 17:35:00,230 | INFO     | server | <socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50417)>
+2020-07-25 17:35:00,230 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Test347', 'time': 1595687699.727892, 'type': 'request'}
+2020-07-25 17:35:00,230 | ERROR    | decorators | (sqlite3.IntegrityError) UNIQUE constraint failed: contacts.user_id, contacts.contact_id
+[SQL: INSERT INTO contacts (user_id, contact_id) VALUES (?, ?)]
+[parameters: (14, 13)]
+(Background on this error at: http://sqlalche.me/e/13/gkpj)
+2020-07-25 17:35:07,741 | INFO     | server | <socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50417)>
+2020-07-25 17:35:07,743 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Test178', 'time': 1595687707.244835, 'type': 'request'}
+2020-07-25 17:35:07,745 | ERROR    | decorators | This Session's transaction has been rolled back due to a previous exception during flush. To begin a new transaction with this Session, first issue Session.rollback(). Original exception was: (sqlite3.IntegrityError) UNIQUE constraint failed: contacts.user_id, contacts.contact_id
+[SQL: INSERT INTO contacts (user_id, contact_id) VALUES (?, ?)]
+[parameters: (14, 13)]
+(Background on this error at: http://sqlalche.me/e/13/gkpj) (Background on this error at: http://sqlalche.me/e/13/7s2a)
+2020-07-25 17:36:57,020 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-25 17:36:57,021 | INFO     | server | Start listen
+2020-07-25 17:37:06,593 | INFO     | server | Connection from ('127.0.0.1', 50457)
+2020-07-25 17:37:06,828 | INFO     | server | <socket.socket fd=260, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50457)>
+2020-07-25 17:37:06,828 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test739', 'time': 1595687826.593795, 'type': 'request'}
+2020-07-25 17:46:05,373 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 17:46:05,383 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 17:46:05,387 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 17:46:05,391 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 17:46:05,393 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 17:46:05,396 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:21:56,830 | INFO     | server | Config server port - 7878| Bind address - 
+2020-07-25 18:21:56,830 | INFO     | server | Start listen
+2020-07-25 18:21:59,366 | INFO     | server | Connection from ('127.0.0.1', 50684)
+2020-07-25 18:21:59,524 | INFO     | server | <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50684)>
+2020-07-25 18:21:59,525 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test173', 'time': 1595690519.366887, 'type': 'request'}
+2020-07-25 18:22:01,469 | INFO     | server | Connection from ('127.0.0.1', 50685)
+2020-07-25 18:22:01,626 | INFO     | server | <socket.socket fd=268, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 50685)>
+2020-07-25 18:22:01,626 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test857', 'time': 1595690521.469546, 'type': 'request'}
+2020-07-25 18:28:31,122 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-25 18:28:31,122 | INFO     | server | Start listen
+2020-07-25 18:32:22,618 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-25 18:32:22,618 | INFO     | server | Start listen
+2020-07-25 18:32:28,648 | INFO     | server | Connection from ('127.0.0.1', 50767)
+2020-07-25 18:32:28,816 | INFO     | server | <socket.socket fd=248, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50767)>
+2020-07-25 18:32:28,816 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test198', 'time': 1595691148.648738, 'type': 'request'}
+2020-07-25 18:42:28,949 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:42:28,949 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:42:28,965 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:42:28,965 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:42:28,965 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:42:28,965 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:43:04,097 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-25 18:43:04,099 | INFO     | server | Start listen
+2020-07-25 18:43:08,614 | INFO     | server | Connection from ('127.0.0.1', 50829)
+2020-07-25 18:43:08,770 | INFO     | server | <socket.socket fd=248, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50829)>
+2020-07-25 18:43:08,770 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test131', 'time': 1595691788.614327, 'type': 'request'}
+2020-07-25 18:43:16,273 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:43:16,273 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:43:16,288 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:43:16,288 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:43:16,288 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:43:16,288 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:50:04,411 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:50:04,411 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:50:04,426 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:50:04,426 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:50:04,426 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:50:04,442 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 18:50:36,929 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-25 18:50:36,929 | INFO     | server | Start listen
+2020-07-25 18:50:42,733 | INFO     | server | Connection from ('127.0.0.1', 50866)
+2020-07-25 18:50:42,874 | INFO     | server | <socket.socket fd=248, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50866)>
+2020-07-25 18:50:42,874 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test792', 'time': 1595692242.733328, 'type': 'request'}
+2020-07-25 19:01:24,892 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 19:01:24,895 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 19:01:24,896 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 19:01:24,899 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 19:01:24,900 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 19:01:24,902 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 19:29:08,946 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 19:29:08,946 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 19:29:08,962 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 19:29:08,962 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 19:29:08,978 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 19:29:08,978 | CRITICAL | descriptors | The port isn`t in the range 1024 to 65535
+2020-07-25 19:38:22,100 | INFO     | server | Config server port - 7878| Bind address - 
+2020-07-25 19:38:22,101 | INFO     | server | Start listen
+2020-07-25 19:38:28,817 | INFO     | server | Connection from ('127.0.0.1', 51405)
+2020-07-25 19:38:28,974 | INFO     | server | <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 51405)>
+2020-07-25 19:38:28,974 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test724', 'time': 1595695108.817957, 'type': 'request'}
+2020-07-25 19:38:31,988 | INFO     | server | Connection from ('127.0.0.1', 51406)
+2020-07-25 19:38:32,166 | INFO     | server | <socket.socket fd=268, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 51406)>
+2020-07-25 19:38:32,166 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test62', 'time': 1595695111.988418, 'type': 'request'}
+2020-07-25 19:38:35,642 | INFO     | server | Connection from ('127.0.0.1', 51407)
+2020-07-25 19:38:35,799 | INFO     | server | <socket.socket fd=332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 51407)>
+2020-07-25 19:38:35,799 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test448', 'time': 1595695115.642286, 'type': 'request'}
+2020-07-25 19:39:02,664 | INFO     | server | Connection from ('127.0.0.1', 51411)
+2020-07-25 19:39:02,822 | INFO     | server | <socket.socket fd=336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 51411)>
+2020-07-25 19:39:02,823 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test553', 'time': 1595695142.664299, 'type': 'request'}
+2020-07-25 19:40:18,341 | INFO     | server | <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 51405)>
+2020-07-25 19:40:18,341 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test724', 'to': 'ALL', 'text': 'Qall helloy'}, 'time': 1595695218.213588, 'type': 'request'}
+2020-07-25 19:40:44,076 | INFO     | server | <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7878), raddr=('127.0.0.1', 51405)>
+2020-07-25 19:40:44,076 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test724', 'to': 'Test553', 'text': ' привет друг'}, 'time': 1595695243.82548, 'type': 'request'}
+2020-07-26 13:12:27,291 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 13:12:27,308 | INFO     | server | Start listen
+2020-07-26 13:14:17,011 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 13:14:17,012 | INFO     | server | Start listen
+2020-07-26 13:15:03,498 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 13:15:03,499 | INFO     | server | Start listen
+2020-07-26 14:06:05,827 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 14:06:05,830 | INFO     | server | Start listen
+2020-07-26 14:48:02,075 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 14:48:02,075 | INFO     | server | Start listen
+2020-07-26 14:48:57,943 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 14:48:57,944 | INFO     | server | Start listen
+2020-07-26 14:49:37,702 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 14:49:37,702 | INFO     | server | Start listen
+2020-07-26 14:57:51,319 | INFO     | server | Config server port - 5465| Bind address - 
+2020-07-26 14:57:51,320 | INFO     | server | Start listen
+2020-07-26 14:58:36,410 | INFO     | server | Config server port - 5465| Bind address - 
+2020-07-26 14:58:36,412 | INFO     | server | Start listen
+2020-07-26 14:58:38,976 | INFO     | server | Connection from ('127.0.0.1', 49524)
+2020-07-26 14:58:39,709 | INFO     | server | <socket.socket fd=492, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5465), raddr=('127.0.0.1', 49524)>
+2020-07-26 14:58:39,710 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test74', 'time': 1595764718.977372, 'type': 'request'}
+2020-07-26 14:58:42,411 | INFO     | server | Connection from ('127.0.0.1', 49526)
+2020-07-26 14:58:42,659 | INFO     | server | <socket.socket fd=232, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5465), raddr=('127.0.0.1', 49526)>
+2020-07-26 14:58:42,659 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test967', 'time': 1595764722.412858, 'type': 'request'}
+2020-07-26 14:58:45,569 | INFO     | server | Connection from ('127.0.0.1', 49527)
+2020-07-26 14:58:46,316 | INFO     | server | <socket.socket fd=480, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5465), raddr=('127.0.0.1', 49527)>
+2020-07-26 14:58:46,317 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test438', 'time': 1595764725.569141, 'type': 'request'}
+2020-07-26 15:00:50,391 | INFO     | server | Config server port - 55555| Bind address - 
+2020-07-26 15:00:50,392 | INFO     | server | Start listen
+2020-07-26 15:06:44,051 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 15:06:44,054 | INFO     | server | Start listen
+2020-07-26 15:06:50,410 | INFO     | server | Connection from ('127.0.0.1', 49769)
+2020-07-26 15:06:51,090 | INFO     | server | <socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49769)>
+2020-07-26 15:06:51,091 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test295', 'time': 1595765210.410337, 'type': 'request'}
+2020-07-26 15:06:54,737 | INFO     | server | Connection from ('127.0.0.1', 49783)
+2020-07-26 15:06:55,422 | INFO     | server | <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49783)>
+2020-07-26 15:06:55,424 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test682', 'time': 1595765214.738874, 'type': 'request'}
+2020-07-26 15:07:06,933 | INFO     | server | <socket.socket fd=488, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49783)>
+2020-07-26 15:07:06,933 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test682', 'to': 'all', 'text': ' привет!'}, 'time': 1595765226.627475, 'type': 'request'}
+2020-07-26 15:09:42,656 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 15:09:42,689 | INFO     | server | Start listen
+2020-07-26 15:12:26,503 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 15:12:26,507 | INFO     | server | Start listen
+2020-07-26 15:13:59,746 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 15:13:59,751 | INFO     | server | Start listen
+2020-07-26 15:15:49,882 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 15:15:49,883 | INFO     | server | Start listen
+2020-07-26 15:16:48,745 | CRITICAL | descriptors | Попытка запуска с указанием неподходящего порта {value}. Допустимы адреса с 1024 до 65535.
+2020-07-26 15:17:21,255 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 15:17:21,257 | INFO     | server | Start listen
+2020-07-26 15:22:18,517 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 15:22:18,518 | INFO     | server | Start listen
+2020-07-26 15:23:24,098 | CRITICAL | descriptors | Попытка запуска с указанием неподходящего порта 77. Допустимы адреса с 1024 до 65535.
+2020-07-26 15:24:56,163 | CRITICAL | descriptors | Попытка запуска с указанием неподходящего порта 77. Допустимы адреса с 1024 до 65535.
+2020-07-26 15:25:27,762 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 15:25:27,770 | INFO     | server | Start listen
+2020-07-26 15:25:35,908 | INFO     | server | Connection from ('127.0.0.1', 50203)
+2020-07-26 15:25:36,569 | INFO     | server | <socket.socket fd=556, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50203)>
+2020-07-26 15:25:36,569 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test179', 'time': 1595766335.908925, 'type': 'request'}
+2020-07-26 16:12:38,051 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 16:12:38,054 | INFO     | server | Start listen
+2020-07-26 16:20:08,542 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 16:20:08,542 | INFO     | server | Start listen
+2020-07-26 16:22:47,451 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 16:22:47,452 | INFO     | server | Start listen
+2020-07-26 16:32:39,299 | INFO     | server | Connection from ('127.0.0.1', 52920)
+2020-07-26 16:32:40,051 | INFO     | server | <socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 52920)>
+2020-07-26 16:32:40,052 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test699', 'time': 1595770359.298152, 'type': 'request'}
+2020-07-26 16:32:49,684 | INFO     | server | Connection from ('127.0.0.1', 52924)
+2020-07-26 16:32:50,360 | INFO     | server | <socket.socket fd=312, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 52924)>
+2020-07-26 16:32:50,360 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test139', 'time': 1595770369.684716, 'type': 'request'}
+2020-07-26 16:32:53,370 | INFO     | server | Connection from ('127.0.0.1', 52925)
+2020-07-26 16:32:54,058 | INFO     | server | <socket.socket fd=516, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 52925)>
+2020-07-26 16:32:54,058 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test345', 'time': 1595770373.375209, 'type': 'request'}
+2020-07-26 17:16:58,752 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 17:16:58,753 | INFO     | server | Start listen
+2020-07-26 17:17:52,885 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 17:17:52,885 | INFO     | server | Start listen
+2020-07-26 17:51:31,520 | INFO     | server | Connection from ('127.0.0.1', 54385)
+2020-07-26 17:51:32,195 | INFO     | server | <socket.socket fd=308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54385)>
+2020-07-26 17:51:32,195 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test233', 'time': 1595775091.520892, 'type': 'request'}
+2020-07-26 17:51:50,889 | INFO     | server | Connection from ('127.0.0.1', 54398)
+2020-07-26 17:51:51,650 | INFO     | server | <socket.socket fd=324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54398)>
+2020-07-26 17:51:51,650 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test881', 'time': 1595775110.889621, 'type': 'request'}
+2020-07-26 17:52:29,895 | INFO     | server | Connection from ('127.0.0.1', 54403)
+2020-07-26 17:52:30,126 | INFO     | server | <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54403)>
+2020-07-26 17:52:30,128 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test410', 'time': 1595775149.772433, 'type': 'request'}
+2020-07-26 17:52:55,864 | INFO     | server | Connection from ('127.0.0.1', 54410)
+2020-07-26 17:52:56,519 | INFO     | server | <socket.socket fd=464, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54410)>
+2020-07-26 17:52:56,533 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test935', 'time': 1595775175.865066, 'type': 'request'}
+2020-07-26 17:53:32,066 | INFO     | server | Connection from ('127.0.0.1', 54431)
+2020-07-26 17:53:32,499 | INFO     | server | <socket.socket fd=448, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54431)>
+2020-07-26 17:53:32,501 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test236', 'time': 1595775212.066364, 'type': 'request'}
+2020-07-26 17:54:26,971 | INFO     | server | Connection from ('127.0.0.1', 54443)
+2020-07-26 17:54:27,177 | INFO     | server | <socket.socket fd=480, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54443)>
+2020-07-26 17:54:27,178 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test269', 'time': 1595775266.971325, 'type': 'request'}
+2020-07-26 17:54:53,271 | INFO     | server | <socket.socket fd=480, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54443)>
+2020-07-26 17:54:53,271 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test269', 'to': 'all', 'text': ' привет всем'}, 'time': 1595775293.241787, 'type': 'request'}
+2020-07-26 17:55:26,879 | INFO     | server | <socket.socket fd=324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54398)>
+2020-07-26 17:55:26,880 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test881', 'to': 'Test269', 'text': ' здорово!'}, 'time': 1595775326.500409, 'type': 'request'}
+2020-07-26 18:00:12,489 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 18:00:12,491 | INFO     | server | Start listen
+2020-07-26 18:01:06,411 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 18:01:06,413 | INFO     | server | Start listen
+2020-07-26 19:07:40,285 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 19:07:40,293 | INFO     | server | Start listen
+2020-07-26 19:07:44,026 | INFO     | server | Connection from ('127.0.0.1', 55901)
+2020-07-26 19:07:45,764 | INFO     | server | <socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55901)>
+2020-07-26 19:07:45,765 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test849', 'time': 1595779664.026359, 'type': 'request'}
+2020-07-26 19:07:47,667 | INFO     | server | Connection from ('127.0.0.1', 55903)
+2020-07-26 19:07:48,465 | INFO     | server | <socket.socket fd=504, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55903)>
+2020-07-26 19:07:48,466 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test430', 'time': 1595779667.682003, 'type': 'request'}
+2020-07-26 19:07:48,502 | INFO     | server | Connection from ('127.0.0.1', 55904)
+2020-07-26 19:07:49,348 | INFO     | server | <socket.socket fd=316, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55904)>
+2020-07-26 19:07:49,349 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test805', 'time': 1595779668.503599, 'type': 'request'}
+2020-07-26 19:07:57,857 | INFO     | server | <socket.socket fd=316, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55904)>
+2020-07-26 19:07:57,859 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test805', 'to': 'all', 'text': ' всем привет!'}, 'time': 1595779677.607185, 'type': 'request'}
+2020-07-26 19:17:01,648 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 19:17:01,657 | INFO     | server | Start listen
+2020-07-26 19:17:10,708 | INFO     | server | Connection from ('127.0.0.1', 56095)
+2020-07-26 19:17:11,378 | INFO     | server | <socket.socket fd=312, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56095)>
+2020-07-26 19:17:11,379 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test569', 'time': 1595780230.708326, 'type': 'request'}
+2020-07-26 19:17:14,284 | INFO     | server | Connection from ('127.0.0.1', 56096)
+2020-07-26 19:17:14,675 | INFO     | server | <socket.socket fd=340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56096)>
+2020-07-26 19:17:14,675 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test437', 'time': 1595780234.285913, 'type': 'request'}
+2020-07-26 19:17:17,003 | INFO     | server | Connection from ('127.0.0.1', 56097)
+2020-07-26 19:17:17,701 | INFO     | server | <socket.socket fd=324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56097)>
+2020-07-26 19:17:17,701 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test426', 'time': 1595780237.004881, 'type': 'request'}
+2020-07-26 19:17:29,210 | INFO     | server | <socket.socket fd=312, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56095)>
+2020-07-26 19:17:29,212 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test569', 'to': 'all', 'text': ' всем привет!'}, 'time': 1595780249.157672, 'type': 'request'}
+2020-07-26 19:21:31,725 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-26 19:21:31,726 | INFO     | server | Start listen
+2020-07-26 19:21:35,993 | INFO     | server | Connection from ('127.0.0.1', 56180)
+2020-07-26 19:21:36,659 | INFO     | server | <socket.socket fd=476, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56180)>
+2020-07-26 19:21:36,660 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test825', 'time': 1595780495.99364, 'type': 'request'}
+2020-07-26 19:21:39,184 | INFO     | server | Connection from ('127.0.0.1', 56181)
+2020-07-26 19:21:40,107 | INFO     | server | <socket.socket fd=392, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56181)>
+2020-07-26 19:21:40,108 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Test820', 'time': 1595780499.185949, 'type': 'request'}
+2020-07-26 19:22:15,649 | INFO     | server | <socket.socket fd=476, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56180)>
+2020-07-26 19:22:15,649 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Test825', 'to': 'ALL', 'text': 'get_users'}, 'time': 1595780535.177541, 'type': 'request'}
+2020-07-26 19:22:21,655 | INFO     | server | <socket.socket fd=476, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56180)>
+2020-07-26 19:22:21,655 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1595780541.233361, 'type': 'request'}
+2020-07-26 19:22:46,678 | INFO     | server | <socket.socket fd=476, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56180)>
+2020-07-26 19:22:46,678 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Test 820', 'time': 1595780566.202066, 'type': 'request'}
+2020-07-26 19:22:46,679 | ERROR    | decorators | add_contact() takes 3 positional arguments but 4 were given
+2020-07-27 14:08:56,754 | CRITICAL | descriptors | Попытка запуска с указанием неподходящего порта 0. Допустимы адреса с 1024 до 65535.
+2020-07-27 14:08:56,839 | CRITICAL | descriptors | Попытка запуска с указанием неподходящего порта 0. Допустимы адреса с 1024 до 65535.
+2020-07-27 14:08:56,861 | CRITICAL | descriptors | Попытка запуска с указанием неподходящего порта 0. Допустимы адреса с 1024 до 65535.
+2020-07-27 14:08:56,877 | CRITICAL | descriptors | Попытка запуска с указанием неподходящего порта 0. Допустимы адреса с 1024 до 65535.
+2020-07-27 14:08:56,894 | CRITICAL | descriptors | Попытка запуска с указанием неподходящего порта 0. Допустимы адреса с 1024 до 65535.
+2020-07-27 14:08:56,907 | CRITICAL | descriptors | Попытка запуска с указанием неподходящего порта 0. Допустимы адреса с 1024 до 65535.
+2020-07-27 14:16:32,134 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-27 14:16:32,135 | INFO     | server | Start listen

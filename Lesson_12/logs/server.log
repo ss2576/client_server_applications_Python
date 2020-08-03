@@ -1,0 +1,56 @@
+2020-07-28 14:54:33,820 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-28 14:54:33,836 | INFO     | server | Start listen
+2020-07-28 14:58:54,876 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-28 14:58:54,876 | INFO     | server | Start listen
+2020-07-28 15:20:20,272 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-28 15:20:20,272 | INFO     | server | Start listen
+2020-07-28 15:21:14,279 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-28 15:21:14,294 | INFO     | server | Start listen
+2020-07-28 15:21:35,200 | INFO     | server | Connection from ('127.0.0.1', 61027)
+2020-07-28 15:21:35,444 | INFO     | server | <socket.socket fd=764, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61027)>
+2020-07-28 15:21:35,444 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Sergey', 'time': 1595938895.184381, 'type': 'request'}
+2020-07-28 15:21:57,225 | INFO     | server | Connection from ('127.0.0.1', 61029)
+2020-07-28 15:21:57,932 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61029)>
+2020-07-28 15:21:57,932 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Mark', 'time': 1595938917.225595, 'type': 'request'}
+2020-07-28 15:22:40,870 | INFO     | server | <socket.socket fd=764, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61027)>
+2020-07-28 15:22:40,870 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Sergey', 'to': 'Mark', 'text': ' Привет Марк!!'}, 'time': 1595938960.379968, 'type': 'request'}
+2020-07-28 15:23:44,215 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61029)>
+2020-07-28 15:23:44,215 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Mark', 'to': 'Sergey', 'text': ' Привет Сергей!у меня всё ок!как сам?'}, 'time': 1595939023.713318, 'type': 'request'}
+2020-07-28 15:42:44,786 | INFO     | server | <socket.socket fd=764, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61027)>
+2020-07-28 15:42:44,786 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Sergey', 'to': 'Mark', 'text': ' Привет Марк!!'}, 'time': 1595940164.66175, 'type': 'request'}
+2020-07-28 15:42:48,486 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61029)>
+2020-07-28 15:42:48,487 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Mark', 'to': 'Sergey', 'text': ' Привет Сергей!у меня всё ок!как сам?'}, 'time': 1595940168.130956, 'type': 'request'}
+2020-07-28 15:43:15,693 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-28 15:43:15,693 | INFO     | server | Start listen
+2020-07-28 16:40:38,079 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-28 16:40:38,099 | INFO     | server | Start listen
+2020-07-28 16:43:22,394 | INFO     | server | Connection from ('127.0.0.1', 62694)
+2020-07-28 16:43:23,014 | INFO     | server | <socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62694)>
+2020-07-28 16:43:23,015 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Sergey', 'time': 1595943802.394847, 'type': 'request'}
+2020-07-28 16:44:41,623 | INFO     | server | Connection from ('127.0.0.1', 62722)
+2020-07-28 16:44:42,334 | INFO     | server | <socket.socket fd=768, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62722)>
+2020-07-28 16:44:42,335 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Oleg', 'time': 1595943881.623172, 'type': 'request'}
+2020-07-28 16:45:01,350 | INFO     | server | <socket.socket fd=768, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62722)>
+2020-07-28 16:45:01,350 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Oleg', 'to': 'Sergey', 'text': ' чем занимаешься?'}, 'time': 1595943901.283397, 'type': 'request'}
+2020-07-29 12:01:43,682 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-29 12:01:43,682 | INFO     | server | Start listen
+2020-07-29 12:03:31,117 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-29 12:03:31,132 | INFO     | server | Start listen
+2020-07-29 12:11:43,026 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-29 12:11:43,026 | INFO     | server | Start listen
+2020-07-29 12:11:55,209 | INFO     | server | Connection from ('127.0.0.1', 49804)
+2020-07-29 12:11:55,906 | INFO     | server | <socket.socket fd=792, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49804)>
+2020-07-29 12:11:55,906 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Sergey', 'time': 1596013915.209651, 'type': 'request'}
+2020-07-29 12:12:02,159 | INFO     | server | Connection from ('127.0.0.1', 49807)
+2020-07-29 12:12:02,864 | INFO     | server | <socket.socket fd=804, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49807)>
+2020-07-29 12:12:02,864 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Oleg', 'time': 1596013922.159645, 'type': 'request'}
+2020-07-29 12:12:51,931 | INFO     | server | <socket.socket fd=804, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49807)>
+2020-07-29 12:12:51,931 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Oleg', 'to': 'Oleg', 'text': ' Привет ,Олег!'}, 'time': 1596013971.894123, 'type': 'request'}
+2020-07-29 12:17:18,557 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-29 12:17:18,558 | INFO     | server | Start listen
+2020-07-29 12:22:15,815 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-29 12:22:15,830 | INFO     | server | Start listen
+2020-07-29 12:25:20,732 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-29 12:25:20,732 | INFO     | server | Start listen
+2020-07-29 12:25:53,425 | INFO     | server | Config server port - 7777| Bind address - 
+2020-07-29 12:25:53,426 | INFO     | server | Start listen

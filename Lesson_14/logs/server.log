@@ -1,0 +1,215 @@
+2020-08-05 15:44:40,852 | ERROR    | server_db | Unregistered user
+2020-08-05 15:44:40,854 | ERROR    | server_db | Unregistered user
+2020-08-05 15:44:40,857 | ERROR    | server_db | DB.add_message: user not found
+2020-08-05 15:44:40,860 | ERROR    | server_db | DB.add_message: user not found
+2020-08-05 15:44:40,866 | ERROR    | server_db | DB.get_chat: user not found
+2020-08-05 16:34:58,545 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-05 16:34:58,546 | INFO     | server | Start listen
+2020-08-05 16:36:22,227 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-05 16:36:22,229 | INFO     | server | Start listen
+2020-08-05 16:37:52,283 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-05 16:37:52,289 | INFO     | server | Start listen
+2020-08-05 16:39:32,511 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-05 16:39:32,512 | INFO     | server | Start listen
+2020-08-05 16:40:28,850 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-05 16:40:28,852 | INFO     | server | Start listen
+2020-08-05 16:43:17,795 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-05 16:43:17,795 | INFO     | server | Start listen
+2020-08-05 16:43:48,169 | INFO     | server | Connection from ('127.0.0.1', 55757)
+2020-08-05 16:43:48,171 | INFO     | server | <socket.socket fd=828, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55757)>
+2020-08-05 16:43:48,172 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Sergey', 'time': 1596635028.169974, 'type': 'request'}
+2020-08-05 16:43:50,872 | INFO     | server | <socket.socket fd=828, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55757)>
+2020-08-05 16:43:50,872 | INFO     | server | REQUEST  | {'action': 'auth', 'body': 'dY5afYliiSztD7Wf2a2nmzxENtlhAuyhQrwSiPyS18bgiMJP1wokeuvNjMoQPH2SQanYmeL1aSSuLCOQLWxkCBjUo9Z8Mt+HwVtkVIxXx3h8UFIl3m6n68YRqZgBHVZRlzofudasV6GdBLLMrmGM55PahE0YUYlU68CPqpQ7lpk=', 'time': 1596635030.403556, 'type': 'request'}
+2020-08-05 16:43:51,774 | INFO     | server | <socket.socket fd=828, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55757)>
+2020-08-05 16:43:51,774 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596635031.283314, 'type': 'request'}
+2020-08-05 16:43:52,278 | INFO     | server | <socket.socket fd=828, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55757)>
+2020-08-05 16:43:52,278 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596635031.777828, 'type': 'request'}
+2020-08-05 16:44:27,286 | INFO     | server | Connection from ('127.0.0.1', 55768)
+2020-08-05 16:44:27,786 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55768)>
+2020-08-05 16:44:27,786 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Oleg', 'time': 1596635067.286274, 'type': 'request'}
+2020-08-05 16:44:28,787 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55768)>
+2020-08-05 16:44:28,787 | INFO     | server | REQUEST  | {'action': 'auth', 'body': 'zp15c3T/kYWr0nl6RKUxRng9w9YqZrCeVwdV5Em1+A+G2nzMeGEirjonPsFDjTQ6Knxxn56w2o56tqPHwBJ2nlZOLJZ/a2WB0SE/yoeoxCCNRo0ulOuOq/h7uEQVmA09G+xB/DobzoDlmTjMcu/0HeI8AvRTf1gawC0FlSX04Kc=', 'time': 1596635068.307, 'type': 'request'}
+2020-08-05 16:44:29,696 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55768)>
+2020-08-05 16:44:29,697 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596635069.225748, 'type': 'request'}
+2020-08-05 16:44:30,206 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 55768)>
+2020-08-05 16:44:30,206 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596635069.705585, 'type': 'request'}
+2020-08-05 16:49:36,787 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-05 16:49:36,788 | INFO     | server | Start listen
+2020-08-05 16:51:05,559 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-05 16:51:05,560 | INFO     | server | Start listen
+2020-08-06 08:21:38,424 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-06 08:21:38,424 | INFO     | server | Start listen
+2020-08-06 08:22:02,403 | INFO     | server | Connection from ('127.0.0.1', 51229)
+2020-08-06 08:22:02,403 | INFO     | server | <socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>
+2020-08-06 08:22:02,403 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Sergey', 'time': 1596691322.403859, 'type': 'request'}
+2020-08-06 08:22:04,357 | INFO     | server | <socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>
+2020-08-06 08:22:04,357 | INFO     | server | REQUEST  | {'action': 'auth', 'body': 'Ny3nkQ3yXP0ac746GtucJr8/hzIYWFfW2UCCqzPLdP/3aTT39B4CQFDSwwSiMfueaOZ6rzz/Y7yjnhDxBucVkwa0mVCzM5k1GKau73wtqMQ4WQVzzMWgcO6xRNQMqL5hWjT8/oASREdvG1qEVP0uC+ITId9PdScL008w9qSy1Pk=', 'time': 1596691323.872749, 'type': 'request'}
+2020-08-06 08:22:05,216 | INFO     | server | <socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>
+2020-08-06 08:22:05,216 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596691324.732216, 'type': 'request'}
+2020-08-06 08:22:05,716 | INFO     | server | <socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>
+2020-08-06 08:22:05,716 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596691325.216645, 'type': 'request'}
+2020-08-06 08:22:46,033 | INFO     | server | Connection from ('127.0.0.1', 51230)
+2020-08-06 08:22:46,533 | INFO     | server | <socket.socket fd=892, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51230)>
+2020-08-06 08:22:46,533 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Oleg', 'time': 1596691366.033853, 'type': 'request'}
+2020-08-06 08:22:48,034 | INFO     | server | <socket.socket fd=892, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51230)>
+2020-08-06 08:22:48,034 | INFO     | server | REQUEST  | {'action': 'auth', 'body': 'cJAh1LuaQ1unL/dC2Rh/lS1Ke6JEWMMPf3Kz8QSWix52gkpEEVAaQAbpRco0KuzntFgOlm1LJ/QQmvYfxHm+xcXRk80mP/ETLco+Hyo0FBtaigD3y+yhnem9Xhrqm3+f9T9SrlX7S5CqxiSHIzLY9iwzz4rtEeVgo/XhDdfmIJE=', 'time': 1596691367.549623, 'type': 'request'}
+2020-08-06 08:22:48,940 | INFO     | server | <socket.socket fd=892, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51230)>
+2020-08-06 08:22:48,940 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596691368.471616, 'type': 'request'}
+2020-08-06 08:22:49,441 | INFO     | server | <socket.socket fd=892, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51230)>
+2020-08-06 08:22:49,442 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596691368.940453, 'type': 'request'}
+2020-08-06 08:24:14,281 | INFO     | server | <socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>
+2020-08-06 08:24:14,281 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Oleg', 'time': 1596691453.937252, 'type': 'request'}
+2020-08-06 08:24:25,991 | INFO     | server | <socket.socket fd=892, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51230)>
+2020-08-06 08:24:25,991 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Sergey', 'time': 1596691465.725926, 'type': 'request'}
+2020-08-06 08:26:50,249 | INFO     | server | <socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>
+2020-08-06 08:26:50,249 | INFO     | server | REQUEST  | {'action': 'start_chat', 'body': {'sender': 'Sergey', 'to': 'Oleg', 'text': '-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZWmqrtD0mKojQ0LVSajJWIyHx\nZPn0WpUCNPZtUStvk7O3aT1HsTcfNpWtplHmCTkfTeuRr++K1drO0zllZps3hkOq\noEPaaAXnZGG40rtcc5I12uW0KPleHFlpRDYz5qTSgipZiACcEFImF8hZo2xHoYQP\nlL8jf2Kzc3CiqA+SbQIDAQAB\n-----END PUBLIC KEY-----'}, 'time': 1596691609.824037, 'type': 'request'}
+2020-08-06 08:26:50,764 | INFO     | server | <socket.socket fd=892, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51230)>
+2020-08-06 08:26:50,764 | INFO     | server | REQUEST  | {'action': 'accept_chat', 'body': {'sender': 'Oleg', 'to': 'Sergey', 'text': 'SXZIB1FZjYaA9yp/UFicH8iV8y5sMoZJbfO21a/azstC4vBKWM+L902jsycCGMKbbzOZjRIa0RWcAOM0xgJ/zFgybfO0jGkl9H3d5MThTKNY9u2vYbAv6QdAQdyTEI52vXl1QDd0YyVHFAODazBU4kvpF1NnqShkgo8+el4nvj0='}, 'time': 1596691610.358404, 'type': 'request'}
+2020-08-06 08:26:51,280 | INFO     | server | <socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>
+2020-08-06 08:26:51,280 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_chat Sergey Oleg', 'time': 1596691610.889743, 'type': 'request'}
+2020-08-06 08:27:04,935 | INFO     | server | <socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>
+2020-08-06 08:27:04,935 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'rem_contact Oleg', 'time': 1596691624.684931, 'type': 'request'}
+2020-08-06 08:27:14,077 | INFO     | server | <socket.socket fd=892, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51230)>
+2020-08-06 08:27:14,077 | INFO     | server | REQUEST  | {'action': 'start_chat', 'body': {'sender': 'Oleg', 'to': 'Sergey', 'text': '-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBr6EObYgG7qaKsckYvvk9g1Jt\n/b3vEPyRb2EUmrg02xj9jdl4xvwj/T0DBffEKDxLv0lmX1cBCS8vwPfWEJMhSAGm\nZvlM+h52hlAOEt/7mLrcYlFDuhhLBeyuCijILgfbPHMsTL08c72AY88w1wNmMbET\nltiYdQtfSv78Au1aswIDAQAB\n-----END PUBLIC KEY-----'}, 'time': 1596691633.749462, 'type': 'request'}
+2020-08-06 08:27:14,593 | INFO     | server | <socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>
+2020-08-06 08:27:14,593 | INFO     | server | REQUEST  | {'action': 'accept_chat', 'body': {'sender': 'Sergey', 'to': 'Oleg', 'text': 'CivOi4WHn5E6mCKW2s85IHpIqalyJjxtnYrHf9WKD1a3m9V9V9nVQPwPM/AGNxPFId0vOjB8Q6DHxl646Gby3oSHy1z4uJDoshQ1Zv9Ne0NZB9672H6YZSSUsVeXjiXjgZWIlN1TJb9wSpH7gSzFGeOpQ+RfOqT5Oc2C5kA/LPQ='}, 'time': 1596691634.077621, 'type': 'request'}
+2020-08-06 08:28:05,645 | INFO     | server | <socket.socket fd=824, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>
+2020-08-06 08:28:05,645 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Sergey', 'to': 'Oleg', 'text': 'GrPcBSnMELRyHc4vlCDDKYjSVQeRiQRAc7ndRJ6Wwrw='}, 'time': 1596691685.310023, 'type': 'request'}
+2020-08-06 08:28:36,870 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-06 08:28:36,886 | INFO     | server | Start listen
+2020-08-06 08:28:55,506 | INFO     | server | Connection from ('127.0.0.1', 51260)
+2020-08-06 08:28:55,506 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51260)>
+2020-08-06 08:28:55,506 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Sergey', 'time': 1596691735.50624, 'type': 'request'}
+2020-08-06 08:28:57,193 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51260)>
+2020-08-06 08:28:57,193 | INFO     | server | REQUEST  | {'action': 'auth', 'body': 'K7lEfrCSMOSaDMU6VgGV5Zn7VFF3TDGh9uk87q3VSjPBezsoMGt8WugmrguPHTeX4ESpis7VRGWLh2otW3r7aPp3K+XFEXfxR1HJJDDYAhrlNoCpeppGKWR9kK3z0TjcXgWWu0FNp04BjpjF6aPX1mGMqHCSKy1yELQkm2VG2nU=', 'time': 1596691736.725065, 'type': 'request'}
+2020-08-06 08:28:58,006 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51260)>
+2020-08-06 08:28:58,006 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596691737.506331, 'type': 'request'}
+2020-08-06 08:28:58,506 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51260)>
+2020-08-06 08:28:58,506 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596691738.006387, 'type': 'request'}
+2020-08-06 08:29:10,697 | INFO     | server | Connection from ('127.0.0.1', 51263)
+2020-08-06 08:29:11,197 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:29:11,197 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Oleg', 'time': 1596691750.69715, 'type': 'request'}
+2020-08-06 08:29:13,431 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:29:13,431 | INFO     | server | REQUEST  | {'action': 'auth', 'body': 'P7FIF0LXi2p6UHQfxYzBOEaUE6YFT4ucQPBSrRuiIQ1K5hXrPi2as457qybdmhc0n80v383RgBWcs0YlqIEJHaah+ucriNgX+Sq+P6vLHE4IdoSuIf/ZptGOLXShBSBLtL1HYZsD1y39kpMvMNdSV5FvYVnNYJ81rFXCISZj3VM=', 'time': 1596691752.947273, 'type': 'request'}
+2020-08-06 08:29:14,228 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:29:14,228 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596691753.744165, 'type': 'request'}
+2020-08-06 08:29:14,744 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:29:14,744 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596691754.244193, 'type': 'request'}
+2020-08-06 08:29:33,459 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51260)>
+2020-08-06 08:29:33,460 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Oleg', 'time': 1596691773.253162, 'type': 'request'}
+2020-08-06 08:30:45,913 | INFO     | server | Connection from ('127.0.0.1', 51276)
+2020-08-06 08:30:45,913 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51276)>
+2020-08-06 08:30:45,913 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Boris', 'time': 1596691845.913959, 'type': 'request'}
+2020-08-06 08:30:46,757 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51276)>
+2020-08-06 08:30:46,757 | INFO     | server | REQUEST  | {'action': 'auth', 'body': 'NN52oKAczP5FnMIn4qrp8y99PG8CQNnkNtgZgl17dltjNGD22hwOotEwXNE/TLg0/KSAIfcQMmfLh/vYmvEWtJoD5fLed9znx1qMlSHIqIcKdQPTJzhV4NEqOu7yU2c4/vmDioNrkQRvN5WAG97sRHI4Jpe/ySsf7R8UzxhedWA=', 'time': 1596691846.273343, 'type': 'request'}
+2020-08-06 08:30:47,648 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51276)>
+2020-08-06 08:30:47,648 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596691847.148381, 'type': 'request'}
+2020-08-06 08:30:48,148 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51276)>
+2020-08-06 08:30:48,148 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596691847.648402, 'type': 'request'}
+2020-08-06 08:30:52,158 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:30:52,159 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Boris', 'time': 1596691851.836352, 'type': 'request'}
+2020-08-06 08:30:53,743 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51260)>
+2020-08-06 08:30:53,745 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Boris', 'time': 1596691853.695221, 'type': 'request'}
+2020-08-06 08:30:55,853 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51276)>
+2020-08-06 08:30:55,855 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Sergey', 'time': 1596691855.761744, 'type': 'request'}
+2020-08-06 08:30:56,947 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51276)>
+2020-08-06 08:30:56,949 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Oleg', 'time': 1596691856.559481, 'type': 'request'}
+2020-08-06 08:31:49,115 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:31:49,115 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'rem_contact Boris', 'time': 1596691908.678189, 'type': 'request'}
+2020-08-06 08:32:46,214 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:32:46,214 | INFO     | server | REQUEST  | {'action': 'start_chat', 'body': {'sender': 'Oleg', 'to': 'Boris', 'text': '-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDF1n4GEjQ9SRI0aLRImUjLgeoH\naENKs0HGNDIcE9+zJdUjmzdzwnnyhOWA8OnGd+8K4/kGBkiFghNL4WozftmhDhpx\nt15/RC8royOkLdlhbI4oQZsPsk54jqBbJqdvexzBR+c8L+v9aqxy12AJDvOXsWXD\n8QTdr5IUT3rpwTZgLwIDAQAB\n-----END PUBLIC KEY-----'}, 'time': 1596691965.745541, 'type': 'request'}
+2020-08-06 08:32:46,714 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:32:46,714 | INFO     | server | REQUEST  | {'action': 'start_chat', 'body': {'sender': 'Oleg', 'to': 'Boris', 'text': '-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC0CMlMGyocGG3w/Tq98Syf110l\nrol4W5i3UyLGAT3Tgd57edjCLqULHPqnkSbvy4NKldQjDSr44NwX6iGXVqgQPc1h\nwn96Y9KZZ2DOFIaDOUANqhXmSRheDvKLqpyWOY/XEaoUkY8C8CR8YHxL4UlVc89i\n5PLH9JeM6RemlstoDQIDAQAB\n-----END PUBLIC KEY-----'}, 'time': 1596691966.276805, 'type': 'request'}
+2020-08-06 08:32:46,714 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51276)>
+2020-08-06 08:32:46,714 | INFO     | server | REQUEST  | {'action': 'accept_chat', 'body': {'sender': 'Boris', 'to': 'Oleg', 'text': 'xVvJ6apsqYjea2yc+3LTt5iISe7bPwTccqCjSL0xBhM1wDC+kkE8m4RA2R8+Vo1jTCfgYWzKItxTxLdDs1E26VDxe4qqsaa0gn3BWq46YYCrLruJc7zFyz8kAvP0sgL0H2MnAVB0hKY3tqKPbz3YbLsKMy2UtaKeIR+W1wVZUsQ='}, 'time': 1596691966.292414, 'type': 'request'}
+2020-08-06 08:32:47,229 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:32:47,229 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_chat Oleg Boris', 'time': 1596691966.729931, 'type': 'request'}
+2020-08-06 08:32:47,229 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51276)>
+2020-08-06 08:32:47,229 | INFO     | server | REQUEST  | {'action': 'accept_chat', 'body': {'sender': 'Boris', 'to': 'Oleg', 'text': 'VlmRKDJ1Y6uyQa6qRUEECBCg+wJZUS1GDcTyyq94k1Dg5mBkis2xutuw4bDRVfN6tCC2U0dLY3s4qw6J2j1L/kjsmQfLTE7LjLrfSVPf/c7TjOacMsUqyr1lD5yhrafFKncIvQ/oJ7g3OW+xlQ2fhwn3jRAvLO/Ek5LUA7bGnl0='}, 'time': 1596691966.729931, 'type': 'request'}
+2020-08-06 08:32:47,745 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:32:47,745 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_chat Oleg Boris', 'time': 1596691967.355019, 'type': 'request'}
+2020-08-06 08:32:52,823 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51260)>
+2020-08-06 08:32:52,823 | INFO     | server | REQUEST  | {'action': 'start_chat', 'body': {'sender': 'Sergey', 'to': 'Oleg', 'text': '-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDPWEPL5tFELrRILtOW07MHtFqO\nc8kdvvKSSmxD+AH3rG/L/sjiuyoHP2do4HprV/PEsL4yj32evF3zmtjnCifjebGX\ntBePTSBd0rCPdRMU+4Ob+7Sony9QXxI7SF0Xr/+1tsH4T2IxOd6JsZ8xZLJ+BYBA\nPFPp7sT1dHfcSr1WFwIDAQAB\n-----END PUBLIC KEY-----'}, 'time': 1596691972.308194, 'type': 'request'}
+2020-08-06 08:32:53,323 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:32:53,323 | INFO     | server | REQUEST  | {'action': 'accept_chat', 'body': {'sender': 'Oleg', 'to': 'Sergey', 'text': 'SR3XoUuxXxb2UqQhR5MLneWtLyeV/Ujyo7kv04oGzK5yLnP1LirJ0OLvcTJ22ouakWQsNt73SDPt4Ds7wlDYzmWWWony6l7Q2Cwr0+iy4sTPQpoxh9p3ML7jtmPBAPiCpOCzmbG/9gRzc4RGYJheQvOhaSzn/j775Z8D3oCSDp8='}, 'time': 1596691972.839487, 'type': 'request'}
+2020-08-06 08:32:53,823 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51260)>
+2020-08-06 08:32:53,823 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_chat Sergey Oleg', 'time': 1596691973.323929, 'type': 'request'}
+2020-08-06 08:33:45,324 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:33:45,326 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Oleg', 'to': 'Boris', 'text': 'R+niO4VUFacbH4cogmje37XI3J00O7Ggk7as94nXxWU='}, 'time': 1596692025.159578, 'type': 'request'}
+2020-08-06 08:33:49,616 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51260)>
+2020-08-06 08:33:49,618 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Sergey', 'to': 'Oleg', 'text': 'rQHaaoMslWDULzlfk9rOI40UidM4hLmCHvyh4UJo8v/uJC2+nA4KS6GKYZdP5TrV'}, 'time': 1596692029.197835, 'type': 'request'}
+2020-08-06 08:33:52,395 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51276)>
+2020-08-06 08:33:52,395 | INFO     | server | REQUEST  | {'action': 'start_chat', 'body': {'sender': 'Boris', 'to': 'Oleg', 'text': '-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC9o7DZkcaZw4OOimzX7JUNHwaQ\ngTTBohRRni+ulJnkA7cGzpjdZahvxjZCujCfbY5zfCCwBjYTlkR7Y8Gj+rFXmgl7\ni7pk3kYtwdKLhHsHjb0PJBYwUmjGJtRfteMN1tH7yx/m9TBGevl0VOqfqRNnU0JE\nnLgJT8W89yxjuP+h4QIDAQAB\n-----END PUBLIC KEY-----'}, 'time': 1596692032.270141, 'type': 'request'}
+2020-08-06 08:33:52,910 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:33:52,910 | INFO     | server | REQUEST  | {'action': 'accept_chat', 'body': {'sender': 'Oleg', 'to': 'Boris', 'text': 'gz/bwz0Eum+oUm66J0J2XHR87pfkCbqFYZfnlpX3UxJgtw0ZjlHmNWnKPl+H0CNdtnppTj7yE6/R68qj+hvv/iV8NMQ+b0P8InsRFRjZFHXCs7Vh+uOOothLF1CdPpIbBJvRHcfxqzZR/O2PVCIiO+q0goVJyyJzX1rSYd9vZLM='}, 'time': 1596692032.410772, 'type': 'request'}
+2020-08-06 08:33:53,410 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51276)>
+2020-08-06 08:33:53,410 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_chat Boris Oleg', 'time': 1596692032.910793, 'type': 'request'}
+2020-08-06 08:33:56,942 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51276)>
+2020-08-06 08:33:56,942 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Boris', 'to': 'Oleg', 'text': 'FrXpEy/lg3x9g9dZj2AtoJ4iLdozFL0sV1wnCTo400I='}, 'time': 1596692036.541607, 'type': 'request'}
+2020-08-06 08:35:25,191 | INFO     | server | <socket.socket fd=864, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51263)>
+2020-08-06 08:35:25,191 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Oleg', 'to': 'Boris', 'text': 'NG6JPanLEXu3ZvzhRaQRx5oD6Wh7b5LQI5smhmsk4Q1C1OXeURTuYoBNexRtWH3U/ZDf5hJEUm4u8M8hmpJifQ=='}, 'time': 1596692124.721445, 'type': 'request'}
+2020-08-06 08:35:38,069 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51260)>
+2020-08-06 08:35:38,071 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Sergey', 'to': 'Oleg', 'text': 'lDScW/Dh8H00xijFuU3uAGgtCr6uvK9Y57+6xWn/KplfaAEJnjMw0T/hQSj23CJK'}, 'time': 1596692137.887693, 'type': 'request'}
+2020-08-06 08:35:53,434 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51276)>
+2020-08-06 08:35:53,436 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Boris', 'to': 'Oleg', 'text': '0bpsQzAVJ9HTinjgOdM9TLCrx6jSkA7vBWun1HEA2o3q793v4xWT7FLwKgNpsu3V'}, 'time': 1596692153.290378, 'type': 'request'}
+2020-08-06 08:38:04,995 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-06 08:38:04,995 | INFO     | server | Start listen
+2020-08-06 08:41:38,075 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-06 08:41:38,075 | INFO     | server | Start listen
+2020-08-06 08:44:42,397 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-06 08:44:42,397 | INFO     | server | Start listen
+2020-08-06 08:45:01,095 | INFO     | server | Connection from ('127.0.0.1', 51404)
+2020-08-06 08:45:01,095 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51404)>
+2020-08-06 08:45:01,095 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Sergey', 'time': 1596692701.095069, 'type': 'request'}
+2020-08-06 08:45:02,313 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51404)>
+2020-08-06 08:45:02,313 | INFO     | server | REQUEST  | {'action': 'auth', 'body': 'PgyPPuMSuVZt0uK54Xx+mXyoveYKj7/aAd/jxklt4VxviD+aazfPRm6WIQ9cQJsAqw+ZAtAWAeZLbLeT5TZMOJ4qH97ku2hhUgG304qGfkqIZ4GPLBAG+CzThoLtuIRM5LFmcaIIQBEz8c1WBGoxZrfvC5d1ebdB8aKixd9gV3c=', 'time': 1596692701.845077, 'type': 'request'}
+2020-08-06 08:45:03,204 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51404)>
+2020-08-06 08:45:03,204 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596692702.720091, 'type': 'request'}
+2020-08-06 08:45:03,720 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51404)>
+2020-08-06 08:45:03,720 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596692703.204553, 'type': 'request'}
+2020-08-06 08:45:14,490 | INFO     | server | Connection from ('127.0.0.1', 51407)
+2020-08-06 08:45:14,490 | INFO     | server | <socket.socket fd=840, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51407)>
+2020-08-06 08:45:14,490 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Oleg', 'time': 1596692714.490149, 'type': 'request'}
+2020-08-06 08:45:15,693 | INFO     | server | <socket.socket fd=840, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51407)>
+2020-08-06 08:45:15,693 | INFO     | server | REQUEST  | {'action': 'auth', 'body': 'CcsHTrRmlbjcFUfatrBrkIck3p1X5/C/q/+oG3x3RgEK6fMBG2PP21eMT8RU81w3jUxf9dEDD9h3klEQGQg5Z1f71kJIgDHcpwlH71jvz2cMzePcaoke4m7LIyZ/MPdIkWqGt12bFS5wcnS0+W9wgQgZtZsqk/nJydNjSSwX/04=', 'time': 1596692715.224531, 'type': 'request'}
+2020-08-06 08:45:16,583 | INFO     | server | <socket.socket fd=840, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51407)>
+2020-08-06 08:45:16,583 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596692716.099544, 'type': 'request'}
+2020-08-06 08:45:17,089 | INFO     | server | <socket.socket fd=840, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51407)>
+2020-08-06 08:45:17,089 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596692716.583939, 'type': 'request'}
+2020-08-06 08:46:04,623 | INFO     | server | <socket.socket fd=840, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51407)>
+2020-08-06 08:46:04,623 | INFO     | server | REQUEST  | {'action': 'start_chat', 'body': {'sender': 'Oleg', 'to': 'Sergey', 'text': '-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCzdHrpYFhU5wL51RBaz9CoP8hz\n3Y+iUMb1T6T+TvwctqeW+373VueVqLrZ+MdiLN+S8VSm9N1jMrsgDUq3U725tgEe\nNHmhcOTS1dM+P7MXwJsQ/4enV5EObVwiWQfuOa3N/M7iL8TfeUpxfb9mdh9hfirf\n355kkN1F6g8NOvUIrwIDAQAB\n-----END PUBLIC KEY-----'}, 'time': 1596692764.120528, 'type': 'request'}
+2020-08-06 08:46:05,138 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51404)>
+2020-08-06 08:46:05,138 | INFO     | server | REQUEST  | {'action': 'accept_chat', 'body': {'sender': 'Sergey', 'to': 'Oleg', 'text': 'OeG3xWLb3uq86KUiR0enZw5IjubjDXVRVR8ZJalG5g5RLusxnfg0faVLrdfFaK5v5WXZYhiRZ5+YuaHV6TS5PUGVYUIPy4UCsQ4fjDohSkUNN7bCYTNrRJFkD7lWATlZEyKOyPIGcmdW0dR5DaFJ0LsZ5TxcQ/kWEuY2WP/nifw='}, 'time': 1596692764.74818, 'type': 'request'}
+2020-08-06 08:46:05,638 | INFO     | server | <socket.socket fd=840, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51407)>
+2020-08-06 08:46:05,638 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_chat Oleg Sergey', 'time': 1596692765.248256, 'type': 'request'}
+2020-08-06 08:46:16,749 | INFO     | server | <socket.socket fd=840, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51407)>
+2020-08-06 08:46:16,750 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Oleg', 'to': 'Sergey', 'text': 'T7X6pPjo4psHR4Z/PvmCgTfjCwCRLpnjZw8Frq0OhXtL7k2905E7y92s1WgRDG4S'}, 'time': 1596692776.677995, 'type': 'request'}
+2020-08-06 08:46:35,771 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51404)>
+2020-08-06 08:46:35,773 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Oleg', 'time': 1596692795.55645, 'type': 'request'}
+2020-08-06 08:46:39,930 | INFO     | server | <socket.socket fd=840, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51407)>
+2020-08-06 08:46:39,932 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Sergey', 'time': 1596692799.586337, 'type': 'request'}
+2020-08-06 08:46:43,585 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51404)>
+2020-08-06 08:46:43,585 | INFO     | server | REQUEST  | {'action': 'start_chat', 'body': {'sender': 'Sergey', 'to': 'Oleg', 'text': '-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCDdtWCz/CMqGOczA8qAn/qkoqR\n+wokIJYekT5ui9VkEMgctFgY34vPL35RvKlMcSloAfkMkisiLLmd+ZMV/0OxNCEV\noZVlXqV5dhK8qCbqrUyOWAB6yN5xU4wF+u+d7f/bK6HxtMhpCkseLDB3oS2sIlDq\njlsJGouCphji1nqo3QIDAQAB\n-----END PUBLIC KEY-----'}, 'time': 1596692803.507463, 'type': 'request'}
+2020-08-06 08:46:44,085 | INFO     | server | <socket.socket fd=840, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51407)>
+2020-08-06 08:46:44,085 | INFO     | server | REQUEST  | {'action': 'accept_chat', 'body': {'sender': 'Oleg', 'to': 'Sergey', 'text': 'cSHAfi9nS13nJXe5cRn2tClFoVY+oIPR4lJ2rpoRtUkyJze89Qu50vfiBJYyOzDE0z7BZ0Ep8ig/Ti+N67ohoIIblZKQTJ2Hm/+18lSxY3IpKhLbh97JKYPqQCyTPvrvENS14Y+HUSLxtB8UDJA+/D33bIOnbHWGkNVNbOzGdWM='}, 'time': 1596692803.601216, 'type': 'request'}
+2020-08-06 08:46:44,601 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51404)>
+2020-08-06 08:46:44,601 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_chat Sergey Oleg', 'time': 1596692804.085678, 'type': 'request'}
+2020-08-06 08:46:52,711 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51404)>
+2020-08-06 08:46:52,713 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Sergey', 'to': 'Oleg', 'text': 'tP2+5IsEFAaZyxBfhxSjeH8U3iw/XwGPae7g8epf1u1XbUJkLOAFwh+kva20U72M'}, 'time': 1596692812.611955, 'type': 'request'}
+2020-08-06 09:36:31,153 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51404)>
+2020-08-06 09:36:31,156 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Sergey', 'to': 'Oleg', 'text': '7fKF3S4Q1Vo13fhhfRKfRj+xwhmB/Wnxct1ft49KOtkYE0RsXgOcSfRCarzlKU6P'}, 'time': 1596695790.661867, 'type': 'request'}
+2020-08-06 09:36:34,510 | INFO     | server | <socket.socket fd=840, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51407)>
+2020-08-06 09:36:34,512 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Oleg', 'to': 'Sergey', 'text': 'ZrcY4+QZPp+b5lAnO3aOguzCXLSwZRvQL3go7NPpDU79AiwgLAjzePcNCyTi1LuT'}, 'time': 1596695794.116696, 'type': 'request'}
+2020-08-06 09:40:11,732 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-06 09:40:11,732 | INFO     | server | Start listen
+2020-08-06 09:40:22,553 | INFO     | server | Connection from ('127.0.0.1', 51772)
+2020-08-06 09:40:22,553 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51772)>
+2020-08-06 09:40:22,553 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Sergey', 'time': 1596696022.553676, 'type': 'request'}
+2020-08-06 09:40:24,100 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51772)>
+2020-08-06 09:40:24,100 | INFO     | server | REQUEST  | {'action': 'auth', 'body': 'tMNEJaRejSLzjBziuf8nGKvsGz+275sCWcdmBLm6wVq6jUwS+KYMEdjCw/PyGr5oTr19Tobs4J7PxwmGYs4KXb8xT+rLhwTmRNczPlGwijBtqI2i1DS1/NBDYM9N5+3SVgSV4iVItyttYqeXQFDhXYdZIrUVEkOwyCR9kRbYGi0=', 'time': 1596696023.61621, 'type': 'request'}
+2020-08-06 09:40:24,913 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51772)>
+2020-08-06 09:40:24,913 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596696024.428701, 'type': 'request'}
+2020-08-06 09:40:25,413 | INFO     | server | <socket.socket fd=816, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51772)>
+2020-08-06 09:40:25,413 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596696024.913099, 'type': 'request'}
+2020-08-06 10:13:08,611 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-06 10:13:08,627 | INFO     | server | Start listen

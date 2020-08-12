@@ -1,0 +1,2 @@
+pip install My_chat_client
+pip install My_chat_server

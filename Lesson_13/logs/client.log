@@ -1,0 +1,63 @@
+2020-07-25 16:54:38,074 | ERROR    | decorators | 503 - Service Unavailable 
+2020-07-25 17:15:56,403 | ERROR    | decorators | string index out of range
+2020-07-25 17:15:58,234 | ERROR    | decorators | string index out of range
+2020-07-25 17:16:10,592 | ERROR    | decorators | string index out of range
+2020-07-25 17:18:40,453 | ERROR    | decorators | string index out of range
+2020-07-25 17:20:17,162 | WARNING  | client | RESPONSE | {'code': 409, 'message': 'User already connected', 'time': 1595686817.162621, 'type': 'response'}
+2020-07-25 17:28:41,188 | ERROR    | decorators | string index out of range
+2020-07-25 17:37:19,498 | ERROR    | decorators | 500 - Server error
+2020-07-25 18:22:09,506 | ERROR    | decorators | string index out of range
+2020-07-25 18:22:11,546 | ERROR    | decorators | string index out of range
+2020-07-25 18:47:31,472 | ERROR    | decorators | 500 - Server error
+2020-07-25 18:50:28,290 | ERROR    | decorators | 503 - Service Unavailable 
+2020-07-26 14:50:50,267 | CRITICAL | decorators | 400 - Incorrect request / json
+2020-07-26 14:50:50,284 | CRITICAL | decorators | 
+2020-07-26 14:50:50,285 | ERROR    | decorators | 'NoneType' object has no attribute 'code'
+2020-07-26 14:58:31,252 | ERROR    | decorators | 503 - Service Unavailable 
+2020-07-26 15:24:15,638 | CRITICAL | descriptors | Попытка запуска с указанием неподходящего порта 77. Допустимы адреса с 1024 до 65535.
+2020-07-26 16:38:11,386 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:39:00,002 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:39:41,523 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:40:36,169 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:41:17,028 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:42:57,784 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:43:58,642 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:45:56,799 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:47:15,094 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:49:14,091 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:49:56,040 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:51:24,428 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:52:06,632 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:52:44,533 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 16:53:09,019 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:02:03,822 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:08:28,361 | ERROR    | decorators | string index out of range
+2020-07-26 17:08:35,853 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:08:43,972 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:11:05,700 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:19:53,674 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:23:48,617 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:25:06,104 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:26:43,961 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:31:55,455 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:32:51,188 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:38:30,240 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:39:05,507 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:39:36,154 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:42:55,929 | CRITICAL | descriptors | Неправильно введён адресс 
+2020-07-26 17:44:25,796 | CRITICAL | descriptors | Неправильно введён адресс 
+2020-07-26 17:46:19,344 | ERROR    | decorators | str, bytes or bytearray expected, not Addr
+2020-07-26 17:57:13,793 | ERROR    | decorators | 500 - Server error
+2020-07-26 17:57:18,395 | ERROR    | decorators | EOF when reading a line
+2020-07-26 17:58:57,264 | ERROR    | decorators | 503 - Service Unavailable 
+2020-07-26 17:59:38,361 | CRITICAL | descriptors | Неправильно введён ip-адресс '127.0.0.1.0' does not appear to be an IPv4 or IPv6 address
+2020-07-26 18:01:08,770 | CRITICAL | descriptors | Неправильно введён ip-адресс '127.0.0.1.0' does not appear to be an IPv4 or IPv6 address
+2020-07-27 14:16:34,540 | CRITICAL | descriptors | Неправильно введён ip-адресс '127.0.0.1.0' does not appear to be an IPv4 or IPv6 address
+2020-07-28 15:20:48,713 | CRITICAL | descriptors | Неправильно введён ip-адресс 'localhost' does not appear to be an IPv4 or IPv6 address
+2020-07-29 12:11:24,456 | CRITICAL | descriptors | Неправильно введён ip-адресс 'localhost' does not appear to be an IPv4 or IPv6 address
+2020-08-02 16:25:00,161 | ERROR    | decorators | 503 - Service Unavailable 
+2020-08-02 16:53:17,160 | CRITICAL | decorators | 400 - Incorrect request / json
+2020-08-02 16:53:17,161 | CRITICAL | decorators | Unterminated string starting at: line 1 column 505 (char 504)
+2020-08-02 18:02:35,440 | CRITICAL | decorators | 400 - Incorrect request / json
+2020-08-02 18:02:35,441 | CRITICAL | decorators | Unterminated string starting at: line 1 column 505 (char 504)
+2020-08-02 18:03:27,200 | WARNING  | client | RESPONSE | {'code': 409, 'message': 'User already connected', 'time': 1596380607.200041, 'type': 'response'}

@@ -1,0 +1,166 @@
+2020-08-02 15:40:09,602 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-02 15:40:09,642 | INFO     | server | Start listen
+2020-08-02 15:49:01,082 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-02 15:49:01,098 | INFO     | server | Start listen
+2020-08-02 16:39:37,127 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-02 16:39:37,129 | INFO     | server | Start listen
+2020-08-02 16:40:12,981 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-02 16:40:12,984 | INFO     | server | Start listen
+2020-08-02 16:40:24,914 | INFO     | server | Connection from ('127.0.0.1', 53065)
+2020-08-02 16:40:25,649 | INFO     | server | <socket.socket fd=800, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53065)>
+2020-08-02 16:40:25,651 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Sergey', 'time': 1596375624.914981, 'type': 'request'}
+2020-08-02 16:40:25,654 | ERROR    | decorators | name 'CONNECTED' is not defined
+2020-08-02 16:40:26,155 | INFO     | server | <socket.socket fd=800, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53065)>
+2020-08-02 16:40:26,157 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596375625.684313, 'type': 'request'}
+2020-08-02 16:40:26,667 | INFO     | server | <socket.socket fd=800, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53065)>
+2020-08-02 16:40:26,669 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596375626.167884, 'type': 'request'}
+2020-08-02 16:40:30,263 | ERROR    | decorators | name 'DISCONNECTED' is not defined
+2020-08-02 16:43:58,367 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-02 16:43:58,368 | INFO     | server | Start listen
+2020-08-02 16:44:08,804 | INFO     | server | Connection from ('127.0.0.1', 53101)
+2020-08-02 16:44:08,890 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53101)>
+2020-08-02 16:44:08,891 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Sergey', 'time': 1596375848.804078, 'type': 'request'}
+2020-08-02 16:44:08,893 | ERROR    | decorators | name 'CONNECTED' is not defined
+2020-08-02 16:44:09,393 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53101)>
+2020-08-02 16:44:09,396 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596375848.903281, 'type': 'request'}
+2020-08-02 16:44:09,903 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53101)>
+2020-08-02 16:44:09,904 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596375849.403908, 'type': 'request'}
+2020-08-02 16:44:22,620 | INFO     | server | Connection from ('127.0.0.1', 53102)
+2020-08-02 16:44:22,805 | INFO     | server | <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53102)>
+2020-08-02 16:44:22,807 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Oleg', 'time': 1596375862.620747, 'type': 'request'}
+2020-08-02 16:44:22,809 | ERROR    | decorators | name 'CONNECTED' is not defined
+2020-08-02 16:44:23,311 | INFO     | server | <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53102)>
+2020-08-02 16:44:23,312 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596375862.819955, 'type': 'request'}
+2020-08-02 16:44:23,819 | INFO     | server | <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53102)>
+2020-08-02 16:44:23,820 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596375863.336502, 'type': 'request'}
+2020-08-02 16:44:35,849 | INFO     | server | <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53102)>
+2020-08-02 16:44:35,850 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Sergey', 'time': 1596375875.616844, 'type': 'request'}
+2020-08-02 16:44:46,445 | INFO     | server | <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53102)>
+2020-08-02 16:44:46,447 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_chat Oleg Sergey', 'time': 1596375886.171412, 'type': 'request'}
+2020-08-02 16:45:01,984 | INFO     | server | <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53102)>
+2020-08-02 16:45:01,985 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Oleg', 'to': 'Sergey', 'text': 'Привет Олег!\n'}, 'time': 1596375901.818061, 'type': 'request'}
+2020-08-02 16:45:02,360 | ERROR    | decorators | name 'LETTER' is not defined
+2020-08-02 16:45:16,380 | INFO     | server | <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53102)>
+2020-08-02 16:45:16,381 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Oleg', 'to': 'Sergey', 'text': 'Привет Сергей!'}, 'time': 1596375916.277382, 'type': 'request'}
+2020-08-02 16:45:16,679 | ERROR    | decorators | name 'LETTER' is not defined
+2020-08-02 16:46:10,822 | ERROR    | decorators | name 'DISCONNECTED' is not defined
+2020-08-02 16:46:21,404 | INFO     | server | Connection from ('127.0.0.1', 53132)
+2020-08-02 16:46:22,009 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53132)>
+2020-08-02 16:46:22,010 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Sergey', 'time': 1596375981.404564, 'type': 'request'}
+2020-08-02 16:46:22,017 | ERROR    | decorators | name 'CONNECTED' is not defined
+2020-08-02 16:46:22,522 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53132)>
+2020-08-02 16:46:22,524 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596375982.033972, 'type': 'request'}
+2020-08-02 16:46:23,035 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53132)>
+2020-08-02 16:46:23,037 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596375982.547337, 'type': 'request'}
+2020-08-02 16:46:29,057 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53132)>
+2020-08-02 16:46:29,059 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Oleg', 'time': 1596375988.978192, 'type': 'request'}
+2020-08-02 16:48:07,748 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53132)>
+2020-08-02 16:48:07,749 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_chat Sergey Oleg', 'time': 1596376087.309666, 'type': 'request'}
+2020-08-02 16:48:24,773 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53132)>
+2020-08-02 16:48:24,774 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Sergey', 'to': 'Oleg', 'text': 'Как дела?\n'}, 'time': 1596376104.535301, 'type': 'request'}
+2020-08-02 16:48:25,014 | ERROR    | decorators | name 'LETTER' is not defined
+2020-08-02 16:52:54,276 | INFO     | server | <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53102)>
+2020-08-02 16:52:54,278 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Oleg', 'to': 'Sergey', 'text': '12212'}, 'time': 1596376374.095355, 'type': 'request'}
+2020-08-02 16:52:54,574 | ERROR    | decorators | name 'LETTER' is not defined
+2020-08-02 16:52:59,581 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53132)>
+2020-08-02 16:52:59,582 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Sergey', 'to': 'Oleg', 'text': '2312321'}, 'time': 1596376379.301401, 'type': 'request'}
+2020-08-02 16:52:59,933 | ERROR    | decorators | name 'LETTER' is not defined
+2020-08-02 16:53:04,437 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53132)>
+2020-08-02 16:53:04,439 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Sergey', 'to': 'Oleg', 'text': '213123'}, 'time': 1596376384.237495, 'type': 'request'}
+2020-08-02 16:53:04,730 | ERROR    | decorators | name 'LETTER' is not defined
+2020-08-02 16:53:10,739 | INFO     | server | <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53102)>
+2020-08-02 16:53:10,765 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Oleg', 'to': 'Sergey', 'text': '123123'}, 'time': 1596376390.238437, 'type': 'request'}
+2020-08-02 16:53:11,142 | ERROR    | decorators | name 'LETTER' is not defined
+2020-08-02 16:53:17,150 | INFO     | server | <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53102)>
+2020-08-02 16:53:17,151 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_chat Oleg Sergey', 'time': 1596376397.115175, 'type': 'request'}
+2020-08-02 16:53:54,200 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53132)>
+2020-08-02 16:53:54,201 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'rem_contact Oleg', 'time': 1596376433.872429, 'type': 'request'}
+2020-08-02 16:53:58,786 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53132)>
+2020-08-02 16:53:58,787 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Oleg', 'time': 1596376438.539205, 'type': 'request'}
+2020-08-02 16:54:26,438 | INFO     | server | Connection from ('127.0.0.1', 53230)
+2020-08-02 16:54:27,121 | INFO     | server | <socket.socket fd=804, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53230)>
+2020-08-02 16:54:27,124 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Mark', 'time': 1596376466.438294, 'type': 'request'}
+2020-08-02 16:54:27,132 | ERROR    | decorators | name 'CONNECTED' is not defined
+2020-08-02 16:54:27,635 | INFO     | server | <socket.socket fd=804, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53230)>
+2020-08-02 16:54:27,636 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596376467.148564, 'type': 'request'}
+2020-08-02 16:54:28,141 | INFO     | server | <socket.socket fd=804, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53230)>
+2020-08-02 16:54:28,143 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596376467.653715, 'type': 'request'}
+2020-08-02 16:54:34,160 | INFO     | server | <socket.socket fd=804, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53230)>
+2020-08-02 16:54:34,163 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Oleg', 'time': 1596376473.696481, 'type': 'request'}
+2020-08-02 16:54:34,748 | INFO     | server | <socket.socket fd=804, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53230)>
+2020-08-02 16:54:34,749 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Sergey', 'time': 1596376474.717976, 'type': 'request'}
+2020-08-02 16:54:43,834 | INFO     | server | <socket.socket fd=804, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53230)>
+2020-08-02 16:54:43,836 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_chat Mark Oleg', 'time': 1596376483.411791, 'type': 'request'}
+2020-08-02 16:54:50,869 | INFO     | server | <socket.socket fd=804, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53230)>
+2020-08-02 16:54:50,870 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Mark', 'to': 'Oleg', 'text': 'qwqw'}, 'time': 1596376490.775844, 'type': 'request'}
+2020-08-02 16:54:51,159 | ERROR    | decorators | name 'LETTER' is not defined
+2020-08-02 16:55:23,189 | INFO     | server | <socket.socket fd=804, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53230)>
+2020-08-02 16:55:23,191 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Mark', 'to': 'Oleg', 'text': 'привет Сергей'}, 'time': 1596376523.042666, 'type': 'request'}
+2020-08-02 16:55:23,442 | ERROR    | decorators | name 'LETTER' is not defined
+2020-08-02 16:55:32,953 | INFO     | server | <socket.socket fd=820, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53132)>
+2020-08-02 16:55:32,956 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'rem_contact Oleg', 'time': 1596376532.602614, 'type': 'request'}
+2020-08-02 18:00:14,220 | INFO     | server | Config server port - 7777| Bind address - 
+2020-08-02 18:00:14,221 | INFO     | server | Start listen
+2020-08-02 18:00:23,968 | INFO     | server | Connection from ('127.0.0.1', 54376)
+2020-08-02 18:00:24,093 | INFO     | server | <socket.socket fd=836, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54376)>
+2020-08-02 18:00:24,093 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Sergey', 'time': 1596380423.96896, 'type': 'request'}
+2020-08-02 18:00:24,109 | ERROR    | decorators | name 'CONNECTED' is not defined
+2020-08-02 18:00:24,610 | INFO     | server | <socket.socket fd=836, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54376)>
+2020-08-02 18:00:24,611 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596380424.125219, 'type': 'request'}
+2020-08-02 18:00:25,122 | INFO     | server | <socket.socket fd=836, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54376)>
+2020-08-02 18:00:25,124 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596380424.622374, 'type': 'request'}
+2020-08-02 18:00:33,001 | INFO     | server | Connection from ('127.0.0.1', 54378)
+2020-08-02 18:00:33,585 | INFO     | server | <socket.socket fd=332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54378)>
+2020-08-02 18:00:33,588 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Oleg', 'time': 1596380433.001575, 'type': 'request'}
+2020-08-02 18:00:33,591 | ERROR    | decorators | name 'CONNECTED' is not defined
+2020-08-02 18:00:34,093 | INFO     | server | <socket.socket fd=332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54378)>
+2020-08-02 18:00:34,095 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596380433.61816, 'type': 'request'}
+2020-08-02 18:00:34,605 | INFO     | server | <socket.socket fd=332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54378)>
+2020-08-02 18:00:34,606 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596380434.122264, 'type': 'request'}
+2020-08-02 18:00:48,899 | INFO     | server | Connection from ('127.0.0.1', 54383)
+2020-08-02 18:00:49,495 | INFO     | server | <socket.socket fd=596, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54383)>
+2020-08-02 18:00:49,498 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Mark', 'time': 1596380448.900509, 'type': 'request'}
+2020-08-02 18:00:49,502 | ERROR    | decorators | name 'CONNECTED' is not defined
+2020-08-02 18:00:50,007 | INFO     | server | <socket.socket fd=596, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54383)>
+2020-08-02 18:00:50,009 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596380449.526799, 'type': 'request'}
+2020-08-02 18:00:50,524 | INFO     | server | <socket.socket fd=596, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54383)>
+2020-08-02 18:00:50,525 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596380450.039485, 'type': 'request'}
+2020-08-02 18:01:06,508 | INFO     | server | Connection from ('127.0.0.1', 54385)
+2020-08-02 18:01:07,152 | INFO     | server | <socket.socket fd=844, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54385)>
+2020-08-02 18:01:07,154 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Svetlana', 'time': 1596380466.508688, 'type': 'request'}
+2020-08-02 18:01:07,158 | ERROR    | decorators | name 'CONNECTED' is not defined
+2020-08-02 18:01:07,660 | INFO     | server | <socket.socket fd=844, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54385)>
+2020-08-02 18:01:07,662 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596380467.184449, 'type': 'request'}
+2020-08-02 18:01:08,171 | INFO     | server | <socket.socket fd=844, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54385)>
+2020-08-02 18:01:08,171 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596380467.687873, 'type': 'request'}
+2020-08-02 18:01:40,362 | INFO     | server | <socket.socket fd=844, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54385)>
+2020-08-02 18:01:40,364 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Sergey', 'time': 1596380500.261514, 'type': 'request'}
+2020-08-02 18:01:43,962 | INFO     | server | <socket.socket fd=844, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54385)>
+2020-08-02 18:01:43,964 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Oleg', 'time': 1596380503.482894, 'type': 'request'}
+2020-08-02 18:01:47,068 | INFO     | server | <socket.socket fd=844, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54385)>
+2020-08-02 18:01:47,070 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Mark', 'time': 1596380506.629295, 'type': 'request'}
+2020-08-02 18:01:54,689 | INFO     | server | <socket.socket fd=844, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54385)>
+2020-08-02 18:01:54,691 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_chat Svetlana Mark', 'time': 1596380514.183643, 'type': 'request'}
+2020-08-02 18:02:09,777 | INFO     | server | <socket.socket fd=844, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54385)>
+2020-08-02 18:02:09,779 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Svetlana', 'to': 'Mark', 'text': 'Привет Сергей!'}, 'time': 1596380529.609101, 'type': 'request'}
+2020-08-02 18:02:10,015 | ERROR    | decorators | name 'LETTER' is not defined
+2020-08-02 18:02:23,095 | INFO     | server | <socket.socket fd=844, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54385)>
+2020-08-02 18:02:23,096 | INFO     | server | REQUEST  | {'action': 'msg', 'body': {'sender': 'Svetlana', 'to': 'Mark', 'text': 'Привет Олег!'}, 'time': 1596380543.015307, 'type': 'request'}
+2020-08-02 18:02:23,366 | ERROR    | decorators | name 'LETTER' is not defined
+2020-08-02 18:02:35,431 | INFO     | server | <socket.socket fd=332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54378)>
+2020-08-02 18:02:35,432 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_chat Oleg Sergey', 'time': 1596380555.344581, 'type': 'request'}
+2020-08-02 18:03:26,698 | INFO     | server | Connection from ('127.0.0.1', 54430)
+2020-08-02 18:03:55,834 | ERROR    | decorators | name 'DISCONNECTED' is not defined
+2020-08-02 18:04:07,494 | INFO     | server | Connection from ('127.0.0.1', 54437)
+2020-08-02 18:04:08,122 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54437)>
+2020-08-02 18:04:08,125 | INFO     | server | REQUEST  | {'action': 'presence', 'body': 'Sergey', 'time': 1596380647.494161, 'type': 'request'}
+2020-08-02 18:04:08,132 | ERROR    | decorators | name 'CONNECTED' is not defined
+2020-08-02 18:04:08,636 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54437)>
+2020-08-02 18:04:08,638 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_users', 'time': 1596380648.152836, 'type': 'request'}
+2020-08-02 18:04:09,150 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54437)>
+2020-08-02 18:04:09,153 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'get_contacts', 'time': 1596380648.667788, 'type': 'request'}
+2020-08-02 18:04:19,177 | INFO     | server | <socket.socket fd=904, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54437)>
+2020-08-02 18:04:19,178 | INFO     | server | REQUEST  | {'action': 'command', 'body': 'add_contact Svetlana', 'time': 1596380659.006936, 'type': 'request'}
+2020-08-02 18:04:40,929 | ERROR    | decorators | name 'DISCONNECTED' is not defined
+2020-08-02 18:10:49,872 | ERROR    | decorators | name 'DISCONNECTED' is not defined
+2020-08-02 18:10:50,991 | ERROR    | decorators | name 'DISCONNECTED' is not defined
